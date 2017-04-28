@@ -111,4 +111,4 @@ media/**
 
 node_modules
 
-nohup.out
+*.out
